@@ -20,7 +20,7 @@ To start developing in VS Code with IntelliSense, you need to [download](https:/
 
 And extract it in the folder [vendor](vendor) in the Git repository. In [Server/Server.csproj](./Server/Server.csproj) you can see the path to the dependencies.
 
-The boilerplate already includes server_0.1.386.270 extracted in the [vendor/server_0.1.386.270](./vendor/server_0.1.386.270) folder.
+The boilerplate already includes server_0.1.386.270 extracted in the [vendor/server_0.1.386.270](./vendor/server_0.1.386.270) folder. Feel free to replace it.
 
 
 
