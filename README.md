@@ -6,7 +6,7 @@ Introduction
 
 This boilerplate aims to give you a head start with scripting your GTA:Network resources.
 
-It features support for IntelliSense in [Microsoft Visual Studio Code](https://code.visualstudio.com).
+It features support for IntelliSense (Server side C# for now) in [Microsoft Visual Studio Code](https://code.visualstudio.com).
 
 ![Imgur](http://i.imgur.com/FTMblG1.gif)
 
