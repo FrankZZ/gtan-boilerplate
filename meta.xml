@@ -1,0 +1,5 @@
+﻿<meta>
+    <info name="resource-name" description="Resource Description" />
+    <script src="Server/Main.cs" type="server" lang="csharp" />
+    <!-- <script src="Client/main.js" type="client" lang="javascript" /> -->
+</meta>
