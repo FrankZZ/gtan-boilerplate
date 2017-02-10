@@ -18,9 +18,6 @@ For IntelliSense support you need to install the `C#` extension made by OmniShar
 
 To start developing in VS Code with IntelliSense, you need to [download](https://download.gtanet.work/server/) the server ZIP from GTA:Network.
 
-And extract it in the folder [vendor](vendor) in the Git repository. In [Server/Server.csproj](./Server/Server.csproj) you can see the path to the dependencies.
+And extract it in the folder [vendor](vendor) in the Git repository, *you need `GTANetworkServer.exe` and `GTANetworkShared.dll`*.
 
-The boilerplate already includes server_0.1.386.270 extracted in the [vendor/server_0.1.386.270](./vendor/server_0.1.386.270) folder. Feel free to replace it.
-
-
-
+In [Server/Server.csproj](./Server/Server.csproj) you can see the path to the dependencies.

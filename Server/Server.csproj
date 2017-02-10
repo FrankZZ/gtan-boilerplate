@@ -4,10 +4,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="GTANetworkServer">
-      <HintPath>..\vendor\server_0.1.386.270\GTANetworkServer.exe</HintPath>
+      <HintPath>..\vendor\GTANetworkServer.exe</HintPath>
     </Reference>
     <Reference Include="GTANetworkShared">
-      <HintPath>..\vendor\server_0.1.386.270\GTANetworkShared.dll</HintPath>
+      <HintPath>..\vendor\GTANetworkShared.dll</HintPath>
     </Reference>
     <Reference Include="System" />
   </ItemGroup>
